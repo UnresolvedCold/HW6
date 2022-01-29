@@ -5,7 +5,7 @@
 This assessment is completed as the **final step** in the process of **Direct Assignment Expert** at Transtutors.
 The root directory of the assignment contains 3 files namely, *"date.h"*, *"date.cpp"* and  *"hw6.cpp"*.
 The *"date.h"* and *"date.cpp"* contains the declaration and defination of the required date functionalities.
-"hw6.cpp is the entry point of the assignment which contains the main file".
+"hw6.cpp is the entry point of the assignment which contains the main file". You can view the entire project at [HW6 Github](https://github.com/UnresolvedCold/HW6).
 
 ## Compilation and Execution
 
